@@ -1,2 +1,2 @@
 # Resources for Biophysics
-[Randow walk julia tutorial](https://github.com/glwhart/getting-started.git)
+[Random walk julia tutorial](https://sje30.github.io/catam-julia/casestudies/randomwalks/randomwalksnotebook.html)
