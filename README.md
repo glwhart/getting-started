@@ -10,6 +10,10 @@ Here are some amazing papers which form the foundation to the sorts of questions
 
 
 
+# Getting Started with GitHub
+If you are unfamiliar with GitHub or how it works, in this section you will find helpful tips and terminal commands to be able to perform the basic git commands that will be necessary for us to share code and findings. 
+* Check out this [GitHub Tutorial Video](https://www.youtube.com/watch?v=DVRQoVRzMIY&list=WL&index=20&t=513s) for help understanding the basics.
+
 # Getting Started with learning Julia
 As mentioned above we have chosen to work in the Julia programing language! In this section you will find helpful tips and tricks to get you started in working with this powerful language! 
 * Check out this [Julia tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial/) for on help setting up Julia and VS code on your computer
