@@ -29,8 +29,7 @@ A random walk is an extremely important concept in Biophysics and it will also b
 * Check out this amazing [video](https://www.youtube.com/watch?v=stgYW6M5o4k) which helps explains the context around and the importance of random walks 
 * Check out this amazing [video](https://www.youtube.com/watch?v=a3V0BJLIo_c) for an introduction to the diffusion equation
 ## Problem # 1
-Build a program using Julia which can simulate a random walk for t number of walkers each taking n number of steps. Plot the trajectory of the walkers in 1, 2 and 3 dimensions!
-Also see if you can plot the density distribution for each dimension! Feel free to compare your solution with Jack and Cayson's
+* Build a program using Julia which can simulate a random walk for t number of walkers each taking n number of steps. Plot the trajectory of the walkers in 1, 2 and 3 dimensions! Also see if you can plot the density distribution for each dimension! Feel free to compare your solution with Jack and Cayson's
 
 ## Problem # 2
 
