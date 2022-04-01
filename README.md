@@ -37,4 +37,6 @@ Also see if you can plot the density distribution for each dimension! Feel free 
 * [2D Random walk](resources/SethnaStatMech_2Dwalk.pdf) problem from Jim Sethna's statistical mechanics book. This problem is insightful.
 
 
-#
+## Problem # 3
+
+* [Bicycle Motion](resources/Chapter_2_Giordano.pdf) problem from Giordano's textbook, chapter 2 on realistic projectile motion. Helpful in beginning to understand the coding behind projectile motion. 
