@@ -4,12 +4,10 @@ Here at the BYU Biophysics research group we are seeking to understand the funda
 
 # Getting Started with Biology
 Here are some amazing papers and textbooks which will form the foundation to the sorts of questions and problebms we are working on solving! 
-Papers:
 * [Escherichia coli Peptidoglycan Structure and Mechanics as Predicted by Atomic-Scale Simulations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003475)
 * [Coarse-Grained Molecular Dynamics Simulations of the Bacterial Cell Wall](https://www.researchgate.net/publication/304020343_Coarse-Grained_Molecular_Dynamics_Simulations_of_the_Bacterial_Cell_Wall)
 * [Coarse-grained simulations of bacterial cell wall growth reveal that local coordination alone can be sufficient to maintain rod shape](https://www.pnas.org/content/112/28/E3689.long)
 * [Simulations of Proposed Mechanisms of FtsZ-Driven Cell Constriction](https://journals.asm.org/doi/10.1128/JB.00576-20)
-Textbooks:
 * [Random walks in Biology by Howard c. Berg](https://press.princeton.edu/books/paperback/9780691000640/random-walks-in-biology)
 * [Microcosm: E.Coli and the new science of life by Carl Zimmer](https://www.amazon.com/Microcosm-Coli-Science-Life/dp/0307276864/ref=asc_df_0307276864/?tag=hyprod-20&linkCode=df0&hvadid=266033622375&hvpos=&hvnetw=g&hvrand=7949759552210628870&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9029858&hvtargid=pla-529339927612&psc=1)
 * [Physical Biology of the Cell by Rob Phillips](https://www.amazon.com/Physical-Biology-Cell-Rob-Phillips/dp/0815344503/ref=sr_1_1?gclid=CjwKCAjwloCSBhAeEiwA3hVo_Z_QGpY5HKXNcUuloiPCHinDh-dNL-LtrzsACZaicseqIxA1a1vuKhoC6QEQAvD_BwE&hvadid=241627101117&hvdev=c&hvlocphy=9029858&hvnetw=g&hvqmt=e&hvrand=626376698173270681&hvtargid=kwd-10715236319&hydadcr=3208_10392132&keywords=physical+biology+of+the+cell&qid=1648415021&s=books&sr=1-1)  
