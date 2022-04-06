@@ -6,7 +6,7 @@ C = 1 #drag constant
 ρ = 1.225  #density of air
 A = π*(.1^2) #frontal area of cannonball
 B = C*ρ*A/2 #drag coefficient
-m = 20 #cannonball mass
+m = 20#cannonball mass
 g = 9.8 #gravitational acceleration
 
 Xx = Array{Float64, 1}(undef, N) #x position
