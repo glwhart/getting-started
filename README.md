@@ -54,6 +54,6 @@ A random walk is an extremely important concept in Biophysics and it will also b
 
 * [Bicycle Motion](resources/Chapter_2_Giordano.pdf) problem from Giordano's textbook, chapter 2 on realistic projectile motion. Helpful in beginning to understand the coding behind projectile motion. 
 
-##Problem # 4
+## Problem # 4
 
 * [Cannonball Trajectory](resources/Chapter_2_Giordano.pdf) problem 2.2 from Giordano's textbook. Helpful in learning the dynamics of projectile motion in multiple dimensions. 
