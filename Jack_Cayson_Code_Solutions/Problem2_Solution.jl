@@ -1,5 +1,6 @@
 using Plots
 using KernelDensity
+using StatsPlots
 
 n = 1000 #number of walkers
 t = 1000 #number of steps
