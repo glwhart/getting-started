@@ -60,4 +60,4 @@ A random walk is an extremely important concept in Biophysics and it will also b
 
 ## Problem # 5
 
-* [Natural Pendulum (3.3)](resources/Giordano_chap_3.pdf) problem from Giordano's textbook. Helpful in beginning to learn about chaotic motion as well as realistic harmonic motion. Take a look at problem 3.1 and 3.2 before as well for an introduction into simple harmonic motion
+* [Natural Pendulum (3.3)](resources/Giordano_chap_3.pdf) problem from Giordano's textbook. Helpful in beginning to learn about chaotic motion as well as realistic harmonic motion. Take a look at problem 3.1 and 3.2 before as well for an introduction into simple harmonic motion.
