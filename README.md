@@ -52,8 +52,12 @@ A random walk is an extremely important concept in Biophysics and it will also b
 
 ## Problem # 3
 
-* [Bicycle Motion](resources/Chapter_2_Giordano.pdf) problem from Giordano's textbook, chapter 2 on realistic projectile motion. Helpful in beginning to understand the coding behind projectile motion. 
+* [Bicycle Motion (2.1)](resources/Chapter_2_Giordano.pdf) problem from Giordano's textbook, chapter 2 on realistic projectile motion. Helpful in beginning to understand the coding behind projectile motion. 
 
 ## Problem # 4
 
-* [Cannonball Trajectory](resources/Chapter_2_Giordano.pdf) problem 2.2 from Giordano's textbook. Helpful in learning the dynamics of projectile motion in multiple dimensions. 
+* [Cannonball Trajectory (2.2)](resources/Chapter_2_Giordano.pdf) problem 2.2 from Giordano's textbook. Helpful in learning the dynamics of projectile motion in multiple dimensions. 
+
+## Problem # 5
+
+* [Natural Pendulum (3.3)](resources/Giordano_chap_3.pdf) problem from Giordano's textbook. Helpful in beginning to learn about chaotic motion as well as realistic harmonic motion. Take a look at problem 3.1 and 3.2 before as well for an introduction into simple harmonic motion
