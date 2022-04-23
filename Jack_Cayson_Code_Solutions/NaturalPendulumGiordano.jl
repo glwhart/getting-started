@@ -31,4 +31,4 @@ t = [i for i in 0:delT:(N-1)*delT]
 [f(i) for i in 1:N-1] 
 
 plot(t, theta, title = "Natural Pendulum", label = "Angle Theta From Normal",
-annotation = (20, 1.5, "Driving Force = $Fd \n Driving Frequency = $wd"))
+annotation = (30, 1.2, "Driving Force = $Fd \n Driving Frequency = $wd"))
