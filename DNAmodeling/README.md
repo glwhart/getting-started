@@ -4,9 +4,13 @@ In this project we are attempting to create a molecularly accurate simulation of
 
 # DNA Replication
 First things first it is crucial that we have a basic understanding of what current science knows about the replication and division process. Check out the following resources for some basic information. 
+<<<<<<< HEAD
 * This secion from a Biology Textbook on [Prokaryotic DNA Replication](https://openstax.org/books/biology/pages/14-4-dna-replication-in-prokaryotes)
 * This video has a great explanation of the [Topoisomerase Enzyme](https://www.youtube.com/watch?v=k4fbPUGKurI) which is very important in our simulation of DNA Separation
 * These two videos show incredible and fascinating simulations that have already been created for DNA replication and other processes in the cell. [Drew Barry Ted Talk](https://www.youtube.com/watch?v=WFCvkkDSfIU) and [Animations Video](https://www.youtube.com/watch?v=7Hk9jct2ozY).
+=======
+* This section from a Biology Textbook on [Prokaryotic DNA Replication](https://openstax.org/books/biology/pages/14-4-dna-replication-in-prokaryotes)
+>>>>>>> 77b33b1bc463ac1e71a5621a7bf618d7c3e1bed3
 
 # BYU Supercomputing
 In order to run the simulation software we make use of the BYU supercomputing lab. You can find more information about that as well as apply for a supercomputing account [here](https://rc.byu.edu/)
