@@ -4,7 +4,7 @@ g = 9.8 #gravity
 l = 9.8 #pendulum length
 N = 1500 #num time steps
 delT = .04 #time step
-Fd = .5 #Driving force (can vary between 0 and above 1 to see different results)
+Fd = 1.2 #Driving force (can vary between 0 and above 1 to see different results)
 q = 1/2 #dissipation constant
 wd = 2/3 #driving frequency
 
@@ -30,5 +30,5 @@ w[1] = 0
 t = [i for i in 0:delT:(N-1)*delT]
 [f(i) for i in 1:N-1] 
 
-plot(t, theta, title = "Natural Pendulum", label = "Angle Theta From Normal",
-annotation = (30, 1.2, "Driving Force = $Fd \n Driving Frequency = $wd"))
+plot(theta, w, title = "Natural Pendulum",
+annotation = (20, 1.5, "Driving Force = $Fd \n Driving Frequency = $wd"))
