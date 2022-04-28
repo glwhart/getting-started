@@ -30,5 +30,5 @@ w[1] = 0
 t = [i for i in 0:delT:(N-1)*delT]
 [f(i) for i in 1:N-1] 
 
-plot(theta, w, title = "Natural Pendulum",
+plot(theta, w, title = "Natural Pendulum", xlabel = "θ", ylabel = "ω",
 annotation = (20, 1.5, "Driving Force = $Fd \n Driving Frequency = $wd"))
