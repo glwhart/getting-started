@@ -22,8 +22,6 @@ Here are some wonderful lectures and prestantions about various topics in biophi
 * [Bart Hoogenboom](https://www.youtube.com/watch?v=y-I0thStOv0)
 * [Seamus Holden](https://www.youtube.com/watch?v=7GP5zZyTRPY)
 
-
-
 # Getting Started with GitHub
 If you are unfamiliar with GitHub or how it works, in this section you will find helpful tips and terminal commands to be able to perform the basic git commands that will be necessary for us to share code and findings. 
 * Check out this [GitHub Tutorial Video](https://www.youtube.com/watch?v=DVRQoVRzMIY&list=WL&index=20&t=513s) for help understanding the basics.
@@ -36,6 +34,9 @@ As mentioned above we have chosen to work in the Julia programing language! In t
 * Check out this helpful conversation [thread](https://stackoverflow.com/questions/58087096/a-plot-describing-the-density-of-data-points-in-2d-space-in-julia) on Kernel Density plotting in Julia
 * Check out this helpful conversation [thread](https://discourse.julialang.org/t/plotting-single-density-plot-for-table/51962) about plotting single density plots for tables
 * [Random walk Julia tutorial](https://sje30.github.io/catam-julia/casestudies/randomwalks/randomwalksnotebook.html)
+
+# BYU Supercomputing
+In order to run the simulation software we make use of the BYU supercomputing lab. You can find more information about that as well as apply for a supercomputing account [here](https://rc.byu.edu/)
 
 # Getting Started with random walks 
 A random walk is an extremely important concept in Biophysics and it will also be the first problem you will get to work on! 
