@@ -28,7 +28,8 @@ Here are some wonderful lectures and prestantions about various topics in biophi
 
 # Getting Started with GitHub
 If you are unfamiliar with GitHub or how it works, in this section you will find helpful tips and terminal commands to be able to perform the basic git commands that will be necessary for us to share code and findings. 
-* Check out this [GitHub Tutorial Video](https://www.youtube.com/watch?v=DVRQoVRzMIY&list=WL&index=20&t=513s) for help understanding the basics.
+* Check out this [GitHub Tutorial Video](https://www.youtube.com/watch?v=DVRQoVRzMIY&list=WL&index=20&t=513s) for help understanding the basics. (One thing to note: the branch people used to call "master" is now typically called "main". In the video, replace "master"->"main".)
+* Branches: Around 27 mins in the tutorial video, there's a nice illustration of using different branches (and even later a nice illustration of resolving conflicting changes). After you're used to the basics of git, revisiting the latter part of the tutorial might be helpful.
 
 # Getting Started with learning Julia
 As mentioned above we have chosen to work in the Julia programing language! In this section you will find helpful tips and tricks to get you started in working with this powerful language! 
