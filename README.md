@@ -1,9 +1,13 @@
 
 # Welcome to the BYU Biophysics Group !
-Here at the BYU Biophysics research group we are seeking to understand the fundamental systematic functions of the basic units of life through simplified computer simulations of real-life molecular behavior. We use computational modeling to better comprehend the physical principles at play in each of the many biological processes prokaryotic and eukaryotic cells undergo. We will be using the programming language Julia to run the simulations and create the models. Our end goal is to contribute to the general knowledge of human function and thus make medical treatment and health a reality for more people. Below you will find all the information you need to get started! 
+Here at the BYU Biophysics research group we are seeking to understand the fundamental processes of life. We model these processes on the computer and compare with cryo-EM images. Prokaryotic cells are our current focus because of the large database of tomograms that are available. 
+
+We use the julia programmming language, which provides a solution to the "two-language problem". By understandin basic processes, our ultimate goal is to contribute to the general knowledge of human function and thus impact medical and preventitive treatment to improve human health.
+
+ Below you will find all the information you need to get started! 
 
 # Getting Started with Biology
-Here are some amazing papers and textbooks which will form the foundation to the sorts of questions and problebms we are working on solving! 
+Here are some interesting papers and useful textbooks which will provide foundation to the sorts of questions and problebms we are working on.
 * [Escherichia coli Peptidoglycan Structure and Mechanics as Predicted by Atomic-Scale Simulations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003475)
 * [Coarse-Grained Molecular Dynamics Simulations of the Bacterial Cell Wall](https://www.researchgate.net/publication/304020343_Coarse-Grained_Molecular_Dynamics_Simulations_of_the_Bacterial_Cell_Wall)
 * [Coarse-grained simulations of bacterial cell wall growth reveal that local coordination alone can be sufficient to maintain rod shape](https://www.pnas.org/content/112/28/E3689.long)
