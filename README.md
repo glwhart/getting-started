@@ -43,6 +43,8 @@ As mentioned above we have chosen to work in the Julia programing language! In t
 # BYU Supercomputing
 In order to run the simulation software we make use of the BYU supercomputing lab. You can find more information about that as well as apply for a supercomputing account [here](https://rc.byu.edu/)
 
+To learn how to setup a remote environment in VS Code, click [here](/supercomputer/VScode_setup.md)
+
 # Getting Started with random walks 
 A random walk is a simple model of fundamental biological processes and is a great place to start doing biophysics simulations.
 
