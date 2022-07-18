@@ -1,8 +1,8 @@
 
 # Welcome to the BYU Biophysics Group !
-Here at the BYU Biophysics research group we are seeking to understand the fundamental processes of life. We model these processes on the computer and compare with cryo-EM images. Prokaryotic cells are our current focus because of the large database of tomograms that are available. 
+The BYU Biophysics research group studies fundamental processes of life. We model these processes on the computer and compare with cryo-EM images. Prokaryotic cells are our current focus because of the large database of tomograms that are available. 
 
-We use the julia programmming language, which provides a solution to the "two-language problem". By understandin basic processes, our ultimate goal is to contribute to the general knowledge of human function and thus impact medical and preventitive treatment to improve human health.
+We use the julia programmming language, which provides a solution to the "two-language problem". By understanding basic life processes, our ultimate goal is to contribute to the general knowledge of human function and thus impact medical and preventitive treatment to improve human health.
 
  Below you will find all the information you need to get started! 
 
